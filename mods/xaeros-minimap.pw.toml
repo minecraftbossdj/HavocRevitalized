@@ -11,8 +11,3 @@ hash = "ca1c0506a84122888f284702ecd3dbf2de32f9a46886bb2bb93884bb238aae5ee856dc77
 [update.modrinth]
 mod-id = "1bokaNcj"
 version = "uhCZlwOM"
-
-[option]
-optional = true
-description = "Xaero's take on a minimap. World map will be installed by default since server requires it."
-default = true

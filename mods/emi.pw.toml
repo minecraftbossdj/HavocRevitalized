@@ -11,8 +11,3 @@ hash = "7a7c74bb1f324904f245f4e5a590631c1f380c4cd606b7e097fa38a359ae96e21b9dea32
 [update.modrinth]
 mod-id = "fRiHVvU7"
 version = "AcC9huLj"
-
-[option]
-optional = true
-description = "a better JEI alternative, also has JEI compat if JEI is installed"
-default = true
