@@ -1,0 +1,13 @@
+name = "Starlance"
+filename = "starlance-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e206e51a0b6dd7fee2e1852a242c679d199aa34a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6186703
+project-id = 1130106

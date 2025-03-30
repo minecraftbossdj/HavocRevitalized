@@ -1,0 +1,13 @@
+name = "Havoc Revitalized"
+author = "minecraftbossdj, BigCrazyClaw"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "79b9a181bd5d7ee3fec5a1fef1b880bb3457ffe1e83d9690add64f950850a921"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
