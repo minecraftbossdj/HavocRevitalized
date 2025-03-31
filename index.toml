@@ -17,6 +17,11 @@ file = "mods/Some-Peripherals-0.0.12-forge.jar"
 hash = "f7520587de63dfc4ad0d5ad29a3539474103b01669214aa3241171c6b7f33742"
 
 [[files]]
+file = "mods/addonapi.pw.toml"
+hash = "510c66ca9b541b18078b3a1aac17f80f5a8a133badb8e9ad71a63fdfada70973"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "13ec84b4db4b66976480d1f3190a14a0df80eeddabd496d1376364ba40dbfc99"
 metafile = true
@@ -112,8 +117,23 @@ hash = "d57915c824186ab6af302905e8d9050d281dbd157eecaeb5a1710f3b9c17b22b"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7d819c446db3bf4b61aea665fa5d1f48a871a89ddbafe9fa8015a95e16a9bcdc"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "a887995b6b13005086ea935735d41aee51b81bfc79c49b7b36028f7f8dd148dc"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "d439aaf90eb75c1e5cd3131450919f3ceedc7e0ddf66551e6b89872549b028dd"
 metafile = true
 
 [[files]]
@@ -167,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "c20612eddc2894de11113cf272b1d68f80c4a62651a3f758f60f4d4e7808cb9f"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "beae80d4ccdf81e78774044b3913e3d007426c5a0bed2397f9b905219afa9d7e"
 metafile = true
 
 [[files]]
@@ -593,6 +618,11 @@ file = "mods/tacz_fire_control_extension-1.1.3+mc1.20.1+tacz1.1.4.jar"
 hash = "6197abf0fa66fbaf4a9dcc3000da86abb68eba1b060ce8ff814d07f6ce136c2e"
 
 [[files]]
+file = "mods/ticex.pw.toml"
+hash = "f40f7b9fb996b86ad4aacc58c1d7a8d9e28e6687f4311ddeda5a9a2dbd43025b"
+metafile = true
+
+[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "30ac52c8e1c1737297069fbb6c5a4c5330c8e01aae13e9878e858d82fe22ea08"
 metafile = true
@@ -600,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "31b05fb2a0ebab9f67b34ab2f8f04d19afee1b43ee1028c150d563809344d9e5"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-jewelry.pw.toml"
+hash = "7b548c054dbd372a255f8cc77e5faf3e06f1f9293d0be7b1359e74e9bec06a80"
 metafile = true
 
 [[files]]
