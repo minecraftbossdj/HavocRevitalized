@@ -572,6 +572,10 @@ hash = "d4fa43df030afea6a4891c0c9cc75b8251c01ad719462c08b817c573a803166b"
 metafile = true
 
 [[files]]
+file = "mods/tacz_fire_control_extension-1.1.3+mc1.20.1+tacz1.1.4.jar"
+hash = "6197abf0fa66fbaf4a9dcc3000da86abb68eba1b060ce8ff814d07f6ce136c2e"
+
+[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "aaca9ae5d888e74a2502305df67cd240330f5b6b2a800b19c1d7cb53bf1dc4f6"
 metafile = true
@@ -617,9 +621,8 @@ hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
 metafile = true
 
 [[files]]
-file = "mods/vs-addition.pw.toml"
-hash = "8e815fab9b1b126f571ece050f7fcfb3b852ab8f56123bba3a7864dd6ba66cfa"
-metafile = true
+file = "mods/vs_addition-1.20.1-0.0.7a+6528b6164a.jar"
+hash = "ef7bbe62085230f8fdbfedb314dbbfea17b918eff0cb9aad57819da460318c88"
 
 [[files]]
 file = "mods/vscontrolcraft-1.0.14-all.jar"
