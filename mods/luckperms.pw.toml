@@ -3,8 +3,8 @@ filename = "LuckPerms-Forge-5.4.102.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "00597f94cd1f88a468202c1fa0495106f000d564"
+hash-format = "sha512"
+hash = "762256001b0f2037f9d80911ba32ef2c9eaad72b256a9d2ad4e57fc289423ea8018d0751581ecd8f23f6855fd96dec1fd671c43406f9df54fcf20626f518c062"
 mode = "metadata:curseforge"
 
 [update]

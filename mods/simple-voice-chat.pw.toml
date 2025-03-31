@@ -3,8 +3,8 @@ filename = "voicechat-forge-1.20.1-2.5.28.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4eb24f4383c7426c0de670a2761b144d69a4ea2d"
+hash-format = "sha512"
+hash = "91aae8bde372d71c95ec76dd9dca53d6ccb7e0182d0d353b24f9b67ff7b8b2acb165bf860d05c6e201687e30e7a7997b6c9e9a31963976f3ce80c334a7bc6f52"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Draconic-Additions-1.20.1-2.4.1.5-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6590f5e4f048119612d3a9864e6a3c4559f952b5"
+hash-format = "sha512"
+hash = "f347db7bfa752b568f2a4e101d956e6cec174ca7b3935852e6c690e64f6e07df6ea1cff82bee37a19d002acfe2da08d52b06f3a6e01f8b125dcbdfbe66988d61"
 mode = "metadata:curseforge"
 
 [update]

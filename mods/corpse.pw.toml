@@ -3,8 +3,8 @@ filename = "corpse-forge-1.20.1-1.0.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fc5cd03dd52f24467c879b44296ddc70b85398f4"
+hash-format = "sha512"
+hash = "3a1740b07b7454bb42ba79a8b5c3944eab46f1f4788d385d4717d596944efa0a69efd554fe274f22457f9efa7bcc4057457301e8696544207311be1c07769d12"
 mode = "metadata:curseforge"
 
 [update]

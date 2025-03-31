@@ -3,8 +3,8 @@ filename = "AEInfinityBooster-1.20.1-1.0.0+47.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5bf37e0693199fd58a4b5ce16bfb20848a807458"
+hash-format = "sha512"
+hash = "5f21deb821ee280e98943c1dc7ec69b9b1ba207c9c48d0e8e1462ad53d7d0a44e5dd8845845752a03eec724f40995a61144336b630fcd726159100575b787161"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Apotheosis-1.20.1-7.4.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ec24db8178753c473c30dbdf9dd871625ae50c50"
+hash-format = "sha512"
+hash = "ca943f89cac321421e44b4cdf619df536c0344e3a8dfd32f6008485717912482054868d3b7e0c665a72a6aa58737e1f7c0912b0f552921288b32f059aeb3600b"
 mode = "metadata:curseforge"
 
 [update]

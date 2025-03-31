@@ -3,8 +3,8 @@ filename = "alltheores-1.20.1-47.1.3-2.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "acb6b854e441014ad864c10ff2f42444e8754ebb"
+hash-format = "sha512"
+hash = "53ffde6562d10fe5f1e102f5e9b2fb60057502313cd78c978120640ae2ac3b0ff5c42c100429926fe39a9aa31c2ac19d65438937a8e537a5686f5ebf94452928"
 mode = "metadata:curseforge"
 
 [update]

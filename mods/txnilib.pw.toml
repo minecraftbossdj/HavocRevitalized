@@ -3,8 +3,8 @@ filename = "txnilib-forge-1.0.23-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "24c7248313839cee8e15bb4571ed0274532acf03"
+hash-format = "sha512"
+hash = "d5be414e524b4469e247c49aec1f63cb58a322ee44f9788e9ecf728b0fae0008a22c28603fa0d628ed0575cedec65300ad25ac07b15f261c56bad437a4d71613"
 mode = "metadata:curseforge"
 
 [update]

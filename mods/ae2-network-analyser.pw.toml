@@ -3,8 +3,8 @@ filename = "AE2NetworkAnalyzer-1.20-1.0.6-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7616ab6cf999f1844edc87433f60dfe45d829ce8"
+hash-format = "sha512"
+hash = "da1bb1efebfc4f3bdc02c1c52ba1ee734bbce72e9bfc8cc496a87c9c40de3fb57cfa67646005258502a31832000a5c96996dc34b11aac97ee8e64d2104405ded"
 mode = "metadata:curseforge"
 
 [update]

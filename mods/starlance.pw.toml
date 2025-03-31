@@ -3,8 +3,8 @@ filename = "starlance-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e206e51a0b6dd7fee2e1852a242c679d199aa34a"
+hash-format = "sha512"
+hash = "8fedb39d3634e3ba5bf312e1020492e34de26f6d4c9fc25aab1f494f0f556092993c5446d690c2565f06f03cb1e4d824e32ea0061bada95a32b89b2ab87a76d9"
 mode = "metadata:curseforge"
 
 [update]

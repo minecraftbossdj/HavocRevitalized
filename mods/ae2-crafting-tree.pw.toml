@@ -3,8 +3,8 @@ filename = "ae2ct-1.20.1-1.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "16495a2a429df1b7a7e08e82f90d62f8426d68c1"
+hash-format = "sha512"
+hash = "89f36dee3ebc14eb544186918c5c2a430b508647f47be25cfa04d6868dc006f64b2bd1aeaec532fa338e85b22b114e032e2f75dabe4dc245ad8e1212626d0173"
 mode = "metadata:curseforge"
 
 [update]

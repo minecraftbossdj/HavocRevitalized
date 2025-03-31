@@ -3,8 +3,8 @@ filename = "etched-3.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4f440ac41309993a46e0ffcb2dd6106d7b92b3e2"
+hash-format = "sha512"
+hash = "7986bd1e4cb92e029b5923998c49306586bdefde5df7924f660d5390a2215b7405befaff248a68c5a434b8952060788a810c6052cb05c8a1e61a8a2444e7e043"
 mode = "metadata:curseforge"
 
 [update]

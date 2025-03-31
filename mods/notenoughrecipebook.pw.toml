@@ -3,8 +3,8 @@ filename = "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c0806369f4257149664904db44efc60bd1785c17"
+hash-format = "sha512"
+hash = "599e085062c6d7a7368a4cf0d47ce319bcaf570bf5966ec6f8b9529f006e315a7f4ab3d2f263c38564a501b9d7031e956d4ee881ed2e13999869d61cbc079702"
 mode = "metadata:curseforge"
 
 [update]

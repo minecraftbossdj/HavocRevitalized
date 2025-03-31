@@ -3,8 +3,8 @@ filename = "inline-forge-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "aa950eaee6f6ab1cd1e7492429e710ed51ac81d6"
+hash-format = "sha512"
+hash = "a05ca26e8044f868748489778c6bb2ba1f63804144c3765c5aa5fa55c9b39bc9ab1605d00d2f97c44e99e32b221bc74d6c164f7b35e98259e6e64ef9e5280033"
 mode = "metadata:curseforge"
 
 [update]

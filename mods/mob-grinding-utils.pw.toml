@@ -3,8 +3,8 @@ filename = "mob_grinding_utils-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "58991a3a94e1f982d0e558bed7b60226a097ae49"
+hash-format = "sha512"
+hash = "bfae1757848fef924e0d7d069cc60bc1e14d32082f320270a1a7f0e3d1a20f015afb9584d5a2941ecc6de17a8ae1f8830ca1907d84a90b0e043f0a966607116f"
 mode = "metadata:curseforge"
 
 [update]
