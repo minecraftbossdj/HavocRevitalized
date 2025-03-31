@@ -476,6 +476,10 @@ hash = "9fd9b86bdb5097fea5f7eafe7cc5561802db9bda3509aa6e5e7801a08ca435c1"
 metafile = true
 
 [[files]]
+file = "mods/peripheralworks-forge-1.20.1-1.4.5.jar"
+hash = "ad273f13c2ad416af5672e36c15ea5d92a02ce12ffc2bbc954a81a362e3b661a"
+
+[[files]]
 file = "mods/petrols-parts.pw.toml"
 hash = "60070d4ccd179c5fd4d3bd52928ba38415313b2a57c7ecf47eb13ada2f70a31f"
 metafile = true
@@ -598,11 +602,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "2f621c6a26e1660d5046c854fb3ca21d92aeed09e083a139ad36bec7f817f69e"
-metafile = true
-
-[[files]]
-file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "0411db8d43aad3b002a92175361492e88fa00bd2fcb7d8ba7cffe2546a2aeb53"
 metafile = true
 
 [[files]]
