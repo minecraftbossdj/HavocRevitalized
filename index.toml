@@ -593,11 +593,6 @@ hash = "2e1f7aff7bfa0c3fb5890cfe3d8e7c1b1e0f454b1605a9949e540cd24af239fd"
 metafile = true
 
 [[files]]
-file = "mods/turtlematic.pw.toml"
-hash = "35a4e2a4691101ca57af6d15e94031c9dac8935e4bd3199b672f087729a5926c"
-metafile = true
-
-[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "462b7ceb4c305cfe274b6bab7575b1e20c7ec8146e33509228755c8fd55fc181"
 metafile = true
