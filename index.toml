@@ -151,6 +151,11 @@ hash = "674068b59a2b53ad0ca3c405765f5eb97bf94a56b974a16f10ec69bf104458bb"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "a7ba514a40fce692ccd896b49727ff1db3975aa284a2adf3c04f9dd7b6fdc82f"
+metafile = true
+
+[[files]]
 file = "mods/cc-vs.pw.toml"
 hash = "13a7b1aac9d1f6ceb3d3bcdf408e2247536fd2b46aa05a0bf52021258bdb3b5b"
 metafile = true
@@ -182,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "c50979045b29025c6fa00d6a2aa65a7916900fc9f5273678bb54b8ba2bca3c61"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "8165f9f7f66ffe4fa7b92ef8f8564cd10f93ec2cf07d6931c442cf91333a1ca3"
 metafile = true
 
 [[files]]
