@@ -479,8 +479,12 @@ file = "mods/peripheralworks-forge-1.20.1-1.4.5.jar"
 hash = "ad273f13c2ad416af5672e36c15ea5d92a02ce12ffc2bbc954a81a362e3b661a"
 
 [[files]]
-file = "mods/petrolsparts-1.20.1-1.2.1.jar"
-hash = "2649e3e04bb28136af3605447782bca78df10bcdd427184cebfa3836a5bffba0"
+file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
+hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
+
+[[files]]
+file = "mods/petrolsparts-1.20.1-1.1.5.jar"
+hash = "733399e6f17f0935f2cd5b1f05eae52821ee7083bc19a6a965ce4b648c4a2a8c"
 
 [[files]]
 file = "mods/placebo.pw.toml"
