@@ -42,6 +42,11 @@ hash = "786acafd21a2ed6abc62054f2707cad91e998fcec4cb2f55f682b5f34dbc4f9c"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "a62ba64d6ffe14e5140cc357cb175b51f278d022fbab681a0580982e72378751"
+metafile = true
+
+[[files]]
 file = "mods/aeinfinitybooster.pw.toml"
 hash = "9fcdd8b73c18efbda4d1f86f8e0e3aa904e399ba9f39a4b65dfb14249490eb60"
 metafile = true
@@ -72,6 +77,11 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics.pw.toml"
+hash = "9670211043e3f424c03b4efe769e4d786d0c14d4d3d83129eea7eb02caf0604d"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "f68498c075cdc04dbfffca79bca5955ea161697784f9dfff02863364299dfa6a"
 metafile = true
@@ -99,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/ato.pw.toml"
 hash = "d57915c824186ab6af302905e8d9050d281dbd157eecaeb5a1710f3b9c17b22b"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "a887995b6b13005086ea935735d41aee51b81bfc79c49b7b36028f7f8dd148dc"
 metafile = true
 
 [[files]]
@@ -221,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "3b773d485edae06d359cfc2cf3533481f07cc59218534383b22b88da9c886521"
+hash = "1b4494467fc1fa728ddcfdea4d1774274800025efbf44b48e4178dc2828cbcb2"
 metafile = true
 
 [[files]]
@@ -360,6 +375,11 @@ hash = "ef6b3e8c5bf5375aa8f8699d05adf747d0ffac13463d82c69279799bb0ca3181"
 metafile = true
 
 [[files]]
+file = "mods/libx.pw.toml"
+hash = "5f92ea3a89a013d4a004e1a391ee00dad45715d46e002210a5692b87ef324815"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "84abbd747813de96299ecd387b0175634918f1456889258de7f3218060d30357"
 metafile = true
@@ -405,11 +425,6 @@ hash = "8991ba0664bcf199807da7a6eadc696a977aa8ec199a25cf3319764e9735462e"
 metafile = true
 
 [[files]]
-file = "mods/mob-grinding-utils.pw.toml"
-hash = "bfefdfbd50fd7fd2b370d8cfd77a330a814fb429743e81ae6ee07ed11742a344"
-metafile = true
-
-[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "093ec9ce30c326373e39077be490f3b7aaec31e073f1921799a81eec3f0187f0"
 metafile = true
@@ -440,6 +455,11 @@ hash = "6dd77344971f8ced2e3d771936391bcfc7955718a3e0dfda2f94abcc107e254d"
 metafile = true
 
 [[files]]
+file = "mods/mythicbotany.pw.toml"
+hash = "37e51789262c462bead956495d29f4b41758e06edc173108a89e01f5e891c1fc"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "be1a73fbe1027bbe494f8a1fa12b680759c8442e33c21c7691fe6c04c9a1ccf3"
 metafile = true
@@ -466,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "30f9191894628677b8f6fb18dcaa01c38775094ea2e826bffcf64349dffc1bdd"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
