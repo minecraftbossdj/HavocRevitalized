@@ -5,6 +5,10 @@ file = "mods/ClockworkAdditions-1.20.1-0.0.4.1-forge-and-fabric.jar"
 hash = "dbc6eed714a1775f78ffdcef549eb7e3113ff7436fef488d09b468fa509f61e2"
 
 [[files]]
+file = "mods/Cosmic_Horizons_0.0.7.3-forge-1.20.1.jar"
+hash = "46cdac6c72a3788f3ffbd2d6ef0420aad3688a74079c3dbdd84e3e300441c3ca"
+
+[[files]]
 file = "mods/Draconic-Shenanigans-1.20.1-1.0.0.4-universal.jar"
 hash = "1ad1c13024a35fd8aaa731bbeaa447f9c770fa4dca93b87810d2302386980053"
 
@@ -158,11 +162,6 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "cecf861a5103ad5d9509a3b3b74d395640ca8a5f453839b73ab9be5d3dd3ad2a"
-metafile = true
-
-[[files]]
-file = "mods/cosmic-horizons.pw.toml"
-hash = "5b5ca2e3f5b1849c7ed346e3dfb2b154bc0e1b4a2b8d5102c0827e4c5b613c77"
 metafile = true
 
 [[files]]
@@ -480,9 +479,8 @@ file = "mods/peripheralworks-forge-1.20.1-1.4.5.jar"
 hash = "ad273f13c2ad416af5672e36c15ea5d92a02ce12ffc2bbc954a81a362e3b661a"
 
 [[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "60070d4ccd179c5fd4d3bd52928ba38415313b2a57c7ecf47eb13ada2f70a31f"
-metafile = true
+file = "mods/petrolsparts-1.20.1-1.2.1.jar"
+hash = "2649e3e04bb28136af3605447782bca78df10bcdd427184cebfa3836a5bffba0"
 
 [[files]]
 file = "mods/placebo.pw.toml"
