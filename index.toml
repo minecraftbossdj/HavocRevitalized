@@ -5,10 +5,6 @@ file = "mods/ClockworkAdditions-1.20.1-0.0.4.1-forge-and-fabric.jar"
 hash = "dbc6eed714a1775f78ffdcef549eb7e3113ff7436fef488d09b468fa509f61e2"
 
 [[files]]
-file = "mods/Cosmic_Horizons_0.0.7.3-forge-1.20.1.jar"
-hash = "46cdac6c72a3788f3ffbd2d6ef0420aad3688a74079c3dbdd84e3e300441c3ca"
-
-[[files]]
 file = "mods/Draconic-Shenanigans-1.20.1-1.0.0.4-universal.jar"
 hash = "1ad1c13024a35fd8aaa731bbeaa447f9c770fa4dca93b87810d2302386980053"
 
@@ -616,11 +612,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d5262fd1ef084847e46a70256a5dcb786e0a615bf3908fe5de406859129a56f5"
-metafile = true
-
-[[files]]
-file = "mods/starlance.pw.toml"
-hash = "4fbf9199c87e4ab9799cef5d98cba0bcaa63ae944e4607f34e238fc0e8ae9b2c"
 metafile = true
 
 [[files]]
