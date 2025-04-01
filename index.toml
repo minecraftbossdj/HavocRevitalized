@@ -678,10 +678,6 @@ hash = "c2bdc58746ef1224d7d6eadbafa6d2cdd816cdb2c6c358973e2387eaad306c9c"
 metafile = true
 
 [[files]]
-file = "mods/vs_addition-1.20.1-0.0.7a+6528b6164a.jar"
-hash = "ef7bbe62085230f8fdbfedb314dbbfea17b918eff0cb9aad57819da460318c88"
-
-[[files]]
 file = "mods/vscontrolcraft-1.0.14-all.jar"
 hash = "14f06307bbdc5601a44c97f176b3280441159cce2854d8f3178eee0f254e5daf"
 
