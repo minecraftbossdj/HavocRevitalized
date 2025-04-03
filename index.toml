@@ -9,6 +9,10 @@ file = "mods/Draconic-Shenanigans-1.20.1-1.0.0.4-universal.jar"
 hash = "1ad1c13024a35fd8aaa731bbeaa447f9c770fa4dca93b87810d2302386980053"
 
 [[files]]
+file = "mods/JAVD-Forge-5.0.1+mc1.20.1.jar"
+hash = "2af488ba98b2b3c608516eb0ee88a38e45f505583681cfb03482a7bb12b91fd0"
+
+[[files]]
 file = "mods/Some-Peripherals-0.0.12-forge.jar"
 hash = "f7520587de63dfc4ad0d5ad29a3539474103b01669214aa3241171c6b7f33742"
 
@@ -138,6 +142,10 @@ hash = "6d62d809888374ba9852ba5ae570a58fc444d39d58a2c9a2b19b50f7cc4f4745"
 metafile = true
 
 [[files]]
+file = "mods/buildinggadgets2-1.0.7.jar"
+hash = "81e4bf64a0d1136de899d68f2693f0bc6439c520884bbb39c5c2a2fa82056f12"
+
+[[files]]
 file = "mods/caelus-forge-3.2.0+1.20.1.jar"
 hash = "43cabe35f0618c0bd01af02e7568ca6f15fd32bb6a90d04c9898bb01e8dc1e81"
 
@@ -209,6 +217,10 @@ metafile = true
 file = "mods/corpse.pw.toml"
 hash = "e3c663de585ce4c330fcb7f8941354e0a59b9b854d580c217f2339322b6daa9b"
 metafile = true
+
+[[files]]
+file = "mods/cosmeticarmorreworked-1.20.1-v1a.jar"
+hash = "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804"
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
@@ -560,6 +572,10 @@ hash = "2342cbf6f8431551778b70d2dd39986ad7bbcbb739aeecf677bbd9e5e5d5d17d"
 metafile = true
 
 [[files]]
+file = "mods/pylons-1.20.1-4.2.1.jar"
+hash = "57be34d69e237ff278b2cd1a506088e012e6d5de9fbdff8d4a9341510f51e075"
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "5ab94f4f6eef4ed9d1ef4ca208a2243f8026d97a4af79fa943b8f226077768b1"
 metafile = true
@@ -652,6 +668,10 @@ metafile = true
 file = "mods/trackwork.pw.toml"
 hash = "2e1f7aff7bfa0c3fb5890cfe3d8e7c1b1e0f454b1605a9949e540cd24af239fd"
 metafile = true
+
+[[files]]
+file = "mods/trenzalore-forge-3.3.10+mc1.20.1-all.jar"
+hash = "e5b2f8554f1a0acecaf568773504a0e3fe26e6f8d94cb279bac03d7c478554e4"
 
 [[files]]
 file = "mods/txnilib.pw.toml"
